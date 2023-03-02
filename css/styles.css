@@ -92,6 +92,10 @@ p {
 }
 
 @media screen and (max-width: 50em) {
+  body {
+    padding: 0;
+    margin: 0;
+  }
   #product-preview {
     grid-template-columns: 1fr;
     gap: 0;
