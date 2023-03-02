@@ -75,6 +75,8 @@ p {
   text-decoration: line-through;
 }
 .btn {
+  font-family: "Montserrat", "Serif";
+  font-weight: 900;
   background-color: hsl(158, 36%, 37%);
   color: #fff;
   width: 90%;
