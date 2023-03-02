@@ -98,6 +98,7 @@ p {
     gap: 0;
     width: 375px;
     margin: 0;
+    padding: 0;
   }
   .product-img-desktop {
     visibility: hidden;
@@ -132,10 +133,15 @@ p {
 }
 
 @media screen and (max-width: 20em) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
   #product-preview {
     grid-template-columns: 1fr;
     gap: 0;
     width: 375px;
+    padding: 0;
   }
   .product-img-desktop {
     visibility: hidden;
