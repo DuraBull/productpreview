@@ -130,7 +130,7 @@ p {
   }
 }
 
-@media screen and (max-width: 20em) {
+/* @media screen and (max-width: 20em) {
   #product-preview {
     grid-template-columns: 1fr;
     gap: 0;
@@ -167,4 +167,4 @@ p {
   .price-content {
     gap: 0;
   }
-}
+} */
