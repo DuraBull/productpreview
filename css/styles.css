@@ -3,6 +3,7 @@ body {
   font-family: "Montserrat", "Serif";
   font-weight: 500;
   background-color: hsl(30, 38%, 92%);
+  padding-top: 10rem;
 }
 h1 {
   font-family: "Fraunces", "Sans-Serif";
