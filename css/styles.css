@@ -89,15 +89,11 @@ p {
 }
 
 @media screen and (max-width: 50em) {
-  body {
-    padding: 0;
-    margin: 0;
-  }
   #product-preview {
     grid-template-columns: 1fr;
     gap: 0;
     width: 375px;
-    margin: 0;
+    margin: auto;
     padding: 0;
   }
   .product-img-desktop {
@@ -133,10 +129,6 @@ p {
 }
 
 @media screen and (max-width: 20em) {
-  body {
-    margin: 0;
-    padding: 0;
-  }
   #product-preview {
     grid-template-columns: 1fr;
     gap: 0;
